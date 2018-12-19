@@ -4,7 +4,7 @@ A list of useful AVR libraries and cool projects
 # Libraries
 
 * [AVR device library](https://github.com/avr-rust/avrd) ([crates.io](https://crates.io/crates/avrd)) ([docs.rs](https://docs.rs/avrd/))
-* [Trimmed down libcore for AVR](https://github.com/gergoerdi/rust-avr-libcore-mini)
+* [Trimmed down libcore for AVR](https://github.com/gergoerdi/rust-avr-libcore-mini) (_No longer necessary_)
 
 # Projects
 
