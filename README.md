@@ -1,6 +1,10 @@
 # awesome-avr-rust
 A list of useful AVR libraries and cool projects
 
+# Executables
+
+* [AVR executable template repository `avr-rust/template-bin`](https://github.com/avr-rust/template-bin)
+
 # Libraries
 
 * [AVR device library](https://github.com/avr-rust/avrd) ([crates.io](https://crates.io/crates/avrd)) ([docs.rs](https://docs.rs/avrd/))
