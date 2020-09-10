@@ -12,6 +12,7 @@ A list of useful AVR libraries and cool projects
 * [`avr-device`](https://github.com/Rahix/avr-device) & [`avr-hal`](https://github.com/Rahix/avr-hal) - `embedded-hal` implementations for AVR microcontrollers
   * (deprecated) [`atmega32u4`](https://github.com/Rahix/atmega32u4) & [`atmega32u4-hal`](https://github.com/Rahix/atmega32u4-hal) - `embedded-hal` crates for `atmega32u4`
 * [`arduino-leonardo`](https://github.com/Rahix/arduino-leonardo) - Board Support Crate for Arduino Leonardo
+* [`avr-progmem`](https://github.com/cryptjar/avr-progmem-rs) ([crates.io](https://crates.io/crates/avr-progmem/)) - Utilities for storing data in flash
 
 # Projects
 
